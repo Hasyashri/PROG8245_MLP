@@ -1,0 +1,11 @@
+# Exclude virtual environment 
+venv/
+
+# Exclude Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Exclude any large data > 20 MB
+if file.size > 20MB
+     *.csv
+     *.json
+     *.xlsx
