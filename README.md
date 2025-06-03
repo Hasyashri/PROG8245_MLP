@@ -30,9 +30,5 @@ This project demonstrates the complete data engineering and exploratory data ana
 4. Replace credentials in `conn_str` with your Neon database connection
 5. Run the notebook step-by-step
 
-
----
----
-
-**The analysis can be extended to include promotion tracking, education metadata, or predictive salary modeling.**
-
+## Reference
+I used chatgpt for the coding.
