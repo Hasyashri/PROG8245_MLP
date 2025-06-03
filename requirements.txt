@@ -4,5 +4,5 @@ scikit-learn
 matplotlib
 seaborn
 faker
-psycopg2
+psycopg2-binary
 sqlalchemy
