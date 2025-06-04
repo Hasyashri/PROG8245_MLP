@@ -31,4 +31,4 @@ This project demonstrates the complete data engineering and exploratory data ana
 5. Run the notebook step-by-step
 
 ## Reference
-I used chatgpt for the coding.
+I used chatgpt and https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html for the coding.
