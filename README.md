@@ -22,6 +22,8 @@ This project demonstrates the complete data engineering and exploratory data ana
 ## Visualizations
 - Grouped bar chart: Average Salary by Position and Start Year
 - Heatmap: Average Salary by Department and Position
+- Scatterplot with Tradeline: salary versus start year
+- Multi-facet Bar chart: Average salary trends across different departments over the years
 
 ## Instructions
 1. Clone the repo
